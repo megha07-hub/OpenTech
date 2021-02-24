@@ -1,0 +1,47 @@
+.navbar-nav > li{
+    padding-left: 20px;
+    padding-right:20px;
+    text-align: left;
+    font: normal normal normal 25px/34px Open Sans; 
+    letter-spacing: 0px;
+    color: #222222; 
+    opacity: 1;
+  }
+
+  .navbar-nav { 
+    margin-left: 45%;  
+  } 
+
+  .rounded-pill {
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 2px;
+    border-color: #663399;
+    
+  }
+
+  .centered {
+    position: absolute;
+    top: 65%;
+    left: 20%;
+    transform: translate(-40%, -60%);
+    opacity: 100%;
+    font-size: 40px;
+  }
+
+  .one-card {
+    text-align: left;
+    max-width: 320px;
+    height: 200px;
+    border-radius: 20px;
+    box-shadow: #2321321F;
+  }
+
+  .one-card:hover {
+    background-color: #9F62C9;
+    opacity: 0.5;
+  }
+
+  mat-slider {
+    width: 300px;
+  }
